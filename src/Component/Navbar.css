@@ -1,0 +1,287 @@
+.navbar,.Submenu{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color:#fff;
+    height: 30px;
+    padding: 10px;
+}
+.navbar{
+    background: #009270;
+}
+.menulist{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    padding: 10px;
+    width: 100%;
+    margin-left: -20px;
+}
+.logo{
+    width: 20%;
+}
+.logo img{
+    width: 80%;
+}
+.menuicon{
+    
+    gap: 15px;
+    display: flex;
+    font-size: 20px;
+}
+.prebtn{
+    width: 20%;
+}
+.prebtn button{
+    padding: 5px;
+    border-radius: 20px;
+    outline: none;
+    border: 1px;
+    width: 100%;
+    margin-left: -20px;
+}
+
+.Submenu{
+    background-color: #4a4a4a !important;
+    height: 25px;
+    font-size: 13px;
+}
+.Submenu button{
+    background-color: #4a4a4a;
+    padding: 13px;
+    border: none;
+    color:#fff;
+}
+.smenu{
+    margin-left:10px;
+}
+.league,.quick{
+    background: #fff;
+    color:black;
+    padding:10px;
+    margin-top: 7px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 30px;
+    padding: 10px;
+}
+.leagueoption{
+    font-size: 16px;
+    font-weight: 400;
+    color:#1866db;
+}
+.quick div{
+    background-color: #f0f0f0;
+    margin-left: 10px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 2px;
+}
+.content{
+    margin-top: 10px;
+    display: flex;
+}
+.contentlft{
+    width: 20%;
+    height: auto;
+    margin-right: 10px;
+}
+.contentcenter{
+    width: 45%;
+    height: auto;
+    margin-right: 10px;
+    background-color: #fff;
+    padding: 15px;
+}
+.contentlast{
+    width: 33%;
+    height: fit-content;
+}
+.ads{
+    text-align: center;
+    height: fit-content;
+    background: #fff;
+    padding: 15px;
+}
+.ads h2{
+    color:#7d7d7d;
+    font-size: 22px;
+}
+.ads button{
+    width: 75%;
+    height: 35px;
+    margin-bottom: 10px;
+    background: #1866db;
+    border: 1px solid;
+    color:#fff;
+}
+#ad{
+    background-color: #666;
+}
+.newscontent{
+    border-bottom: 1px solid #222;
+    border-bottom: 1px solid #E3E6E3;
+    padding: 10PX 0PX 15PX 0px;
+    font-size: 15px;
+    color:#222;
+    background-color: #fff;
+}
+.news{
+    background-color: #fff;
+    padding: 15px;
+}
+.news p, .Photos p{
+    color:#1866db;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+.news h2,.Photos h3,.Photos h2{
+    margin-block-start: 0px;
+    margin-block-end: 10px;
+    color:#009270;
+}
+.hour{
+    font-size:12px;
+    color:#666;
+}
+.Photos{
+    background-color: #fff;
+    padding: 15px;
+    margin-top:10px;
+}
+.specialimg{
+    width: 100%;
+}
+
+
+.footerblock{
+    background-color: #4A4A4A;
+    padding: 15px;
+    height: 230px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.links{
+    padding-left: 18%;
+    padding-right: 18%;
+    display: flex;
+}
+.footercontent{
+    width: 25%;
+    text-align: left;
+}
+.footercontent img{
+    width: 70%;
+    height: 40px;
+    margin-top: 20px;
+}
+.footercontent ul{
+    list-style: none;
+    font-size: 16px;
+    padding-left: 0px;
+}
+.footercontent li{
+    margin-top:10px;
+}
+
+.matches{
+    background-color: #FFFFFF;
+    padding: 10px 10px 5px;
+    height: 145px;
+    margin-bottom: 5px;
+}
+h4{
+    color:#009270;
+    font-size: 16px;
+    margin-top:0px;
+    margin-left:7px;
+    height: 10px;
+}
+.matchblock{
+    width: 210px;
+    padding:10px;
+    line-height: 1.6em;
+    height:70px;
+    border-right: 2px solid #E3E6E3;
+    float: left;
+    background-color: #ffffff;
+}
+.match{
+    margin-top:-15px;
+    padding:10px 10px 10px 0px;
+}
+.midcontent{
+    padding: 15px;
+}
+.bodycontent{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #E3E6E3;
+    margin-top:15px;
+}
+.bodycontent img{
+    width: 100%;
+}
+.contenttitle{
+    font-size: 24px;
+    margin:0px;
+    line-height: 30px;
+    color:#222;
+    font-weight: bold;
+}
+.contentmessage{
+    color: #666;
+    padding-bottom: 15px;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 16px;
+}
+a:hover{
+    text-decoration: underline;
+    color:#1866DB;
+}
+
+.Login{
+    background: #fff;
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.Login a{
+    color:#1866DB;
+    text-decoration: underline;
+}
+.Login form{
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: 300px;
+    padding: 13px;
+    border-radius: 8px;
+    border: 1px solid #666;
+    margin-bottom: 20px;
+}
+
+form button{
+    padding: 13px;
+    border-radius: 8px;
+    background-color: #009270;
+    border: 1px solid #009270;
+    margin-bottom: 20px;
+    color:#fff;
+}

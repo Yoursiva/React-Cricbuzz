@@ -1,0 +1,278 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "menu": "Live Scores"
+    },
+    {
+      "id": 2,
+      "menu": "Schedule"
+    },
+    {
+      "id": 3,
+      "menu": "Archives"
+    },
+    {
+      "id": 4,
+      "menu": "News"
+    },
+    {
+      "id": 5,
+      "menu": "Series"
+    },
+    {
+      "id": 6,
+      "menu": "Teams"
+    },
+    {
+      "id": 7,
+      "menu": "Videos"
+    },
+    {
+      "id": 8,
+      "menu": "Rankings"
+    },
+    {
+      "id": 9,
+      "menu": "More"
+    }
+  ],
+  "submenus": [
+    {
+      "id": 1,
+      "submenu": "MATCHES"
+    },
+    {
+      "id": 2,
+      "submenu": "GT vs PBKS- Preview"
+    },
+    {
+      "id": 3,
+      "submenu": "KKR vs DC - KKR Won"
+    },
+    {
+      "id": 4,
+      "submenu": "AUSW vs BANW"
+    },
+    {
+      "id": 5,
+      "submenu": "LSG vs RCB"
+    }
+  ],
+  "League": [
+    {
+      "id": 1,
+      "option": "Matches"
+    },
+    {
+      "id": 2,
+      "option": "News"
+    },
+    {
+      "id": 3,
+      "option": "Videos"
+    },
+    {
+      "id": 4,
+      "option": "Poits Table"
+    },
+    {
+      "id": 5,
+      "option": "Squads"
+    }
+  ],
+  "News": [
+    {
+      "id": 1,
+      "title": "Australia hand Bangladesh a reality check ahead of WC",
+      "hour": "2h ago"
+    },
+    {
+      "id": 2,
+      "title": "IPL PULSE - Week #3",
+      "hour": "3h ago"
+    },
+    {
+      "id": 3,
+      "title": "USOPC and ICC reprimand USA Cricket as suspension looms",
+      "hour": "4h ago"
+    },
+    {
+      "id": 4,
+      "title": "Suryakumar set to join Mumbai Indians on April 5",
+      "hour": "4h ago"
+    },
+    {
+      "id": 5,
+      "title": "I was almost embarrassed with our first half of the game today",
+      "hour": "5h ago"
+    },
+    {
+      "id": 6,
+      "title": "The curious case of Shaheen's captaincy ouster",
+      "hour": "6h ago"
+    },
+    {
+      "id": 7,
+      "title": "KKR register the second-highest IPL total",
+      "hour": "6h ago"
+    },
+    {
+      "id": 8,
+      "title": "Dhananjaya lauds fast bowlers after series win",
+      "hour": "8h ago"
+    },
+    {
+      "id": 9,
+      "title": "Shanto urges extensive preparation for Test match specialists",
+      "hour": "8h ago"
+    },
+    {
+      "id": 10,
+      "title": "Mustafizur set to miss SRH clash to process US Visa",
+      "hour": "9h ago"
+    }
+  ],
+  "Photos": [
+    {
+      "id": 1,
+      "pic": "1.png",
+      "title": "IPL 2024: GT vs PBKS, Match 17",
+      "hour": "2h ago"
+    },
+    {
+      "id": 2,
+      "pic": "2.png",
+      "title": "IPL 2024: DC vs KKR, Match 16",
+      "hour": "3h ago"
+    },
+    {
+      "id": 3,
+      "pic": "3.png",
+      "title": "IPL 2024: LSG vs RCB, Match 15",
+      "hour": "4h ago"
+    },
+    {
+      "id": 4,
+      "pic": "4.png",
+      "title": "IPL 2024: MI vs RR, Match 14",
+      "hour": "6h ago"
+    },
+    {
+      "id": 5,
+      "pic": "6.png",
+      "title": "IPL 2024: DC vs CSK, Match 13",
+      "hour": "8h ago"
+    },
+    {
+      "id": 6,
+      "pic": "7.png",
+      "title": "IPL 2024: SRH vs PBKS, Match 12",
+      "hour": "9h ago"
+    }
+  ],
+  "Specials": [
+    {
+      "id": 1,
+      "pic": "s1.png",
+      "title": "The Breakdown: How can RCB maximise home advantage?",
+      "message": "Mike Hesson, former Director of Cricket at RCB, weighs in on all the challenges that they faced at the Chinnaswamy Stadium"
+    },
+    {
+      "id": 2,
+      "pic": "s2.png",
+      "title": "The Dhoni I know - by N Srinivasan, Simon Taufel and Raju Mukherjee",
+      "message": "Recollections of people who saw him in different avatars at various stages of his career"
+    },
+    {
+      "id": 3,
+      "pic": "s3.png",
+      "title": "The nucleus of the Rohit-Hardik captaincy swap",
+      "message": "The story of how Mumbai Indians went about the captaincy transition in their ranks"
+    },
+    {
+      "id": 4,
+      "pic": "s4.png",
+      "title": "Ishan, Shreyas vs BCCI: What exactly happened ",
+      "message": "The inside story on the events that led to a watershed moment in Indian cricket in the modern era"
+    },
+    {
+      "id": 5,
+      "pic": "s5.png",
+      "title": "India hold up a mirror to England's Test tendencies",
+      "message": "England's Test ideologies need a degree of situational tempering to be universally effective"
+    },
+    {
+      "id": 6,
+      "pic": "s6.png",
+      "title": "Dhruv Jurel and not sweating the small stuff",
+      "message": "A stable head, a sound game plan and a decision made at Nando's all came to the fore in a match-turning innings from the 23-year-old"
+    },
+    {
+      "id": 7,
+      "pic": "s7.png",
+      "title": "The dynamics behind the ground-breaking 24.75 cr bid",
+      "message": "KKR managed to secure the services of Mitchell Starc and staved off Gujarat Titans due to some smart choices"
+    }
+  ],
+  "Content": [
+    {
+      "id": 1,
+      "pic": "c1.png",
+      "title": "Suryakumar set to join Mumbai Indians on April 5",
+      "message": "The No.1 ranked T20I batter last played competitive cricket in December 2023"
+    },
+    {
+      "id": 2,
+      "pic": "c2.png",
+      "title": "The tale of two talents - Angkrish Raghuvanshi and Mayank Yadav ",
+      "message": "Both the youngsters have made an early impression with bat and ball respectively in IPL 2024"
+    },
+    {
+      "id": 3,
+      "pic": "c3.png",
+      "title": "KKR register the second-highest IPL total",
+      "message": "All the records broken as Kolkata Knight Riders racked up a massive 272 against Delhi Capitals"
+    },
+    {
+      "id": 4,
+      "pic": "c4.png",
+      "title": "Where have all the sixes come from?",
+      "message": "Lance Klusener, the Lucknow Super Giants' assistant coach, opens up about the reason for the rise in sixes in the IPL especially with the success the likes of Heinrich Klaasen and Andre Russell have found"
+    },
+    {
+      "id": 5,
+      "pic": "c5.png",
+      "title": "Mustafizur set to miss SRH clash to process US Visa",
+      "message": "The pacer is back in Bangladesh to process the visa in order to participate in the T20 World Cup"
+    },
+    {
+      "id": 6,
+      "pic": "c6.png",
+      "title": "Stokes pulls out of T20 World Cup to focus on fitness",
+      "message": "The England Test skipper has revealed that he intends to regain full fitness in order to bowl again"
+    },
+    {
+      "id": 7,
+      "pic": "c7.png",
+      "title": "Bracewell named NZ captain for T20I series against Pakistan",
+      "message": "Tim Robinson has received his maiden call-up and the squad also includes Will O'Rourke who is uncapped in the format"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "username": "siv",
+      "email": "siva@gmail.com",
+      "password": "12345",
+      "number": "123456789"
+    },
+    {
+        "id": 1,
+        "username": "siv",
+        "email": "si@gmail.com",
+        "password": "12345",
+        "number": "123456789"
+      }
+  ]
+}

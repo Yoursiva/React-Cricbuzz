@@ -1,0 +1,11 @@
+.app{
+  padding: 0px !important;
+  margin: 0px !important;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  background: #E3E6E3;
+}
+.sidesize{
+  margin-left: 18%;
+  margin-right: 18%;
+}

@@ -16,7 +16,7 @@ import Profile from "./Pages/Profile";
 
 
 function App() {
-  const API_URL='http://localhost:3500/';
+  const API_URL='https://react-cricbuzz-webserver.onrender.com/';
   const [menus,setmenus]=useState([]);
   const [submenu,setsubmenu]=useState([]);
   const [league,setleague]=useState([]);
